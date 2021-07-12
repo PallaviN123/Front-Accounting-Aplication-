@@ -1,1 +1,2 @@
-# Front-Accounting-Aplication-
+Project Name : Front Accounting Aplication
+Testing Type: Manual Testing 
